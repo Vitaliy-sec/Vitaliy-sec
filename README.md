@@ -1,16 +1,22 @@
-## Hi there 👋
+# Привет, я Виталий! 👋
 
-<!--
-**Vitaliy-sec/Vitaliy-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне
+Я начинающий специалист по информационной безопасности. Прошёл 33 уровня OverTheWire Bandit, изучаю TryHackMe.  
+Моя цель — стать SOC-аналитиком или Junior-пентестером.
 
-Here are some ideas to get you started:
+## Навыки
+- **Linux:** командная строка, права доступа, SSH, cron, SUID
+- **Сети:** TCP/IP, DNS, Wireshark, Nmap (базово)
+- **Инструменты:** Git, Bash, Python (начальный уровень)
+- **Безопасность:** основы веб-безопасности, анализ логов
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мои проекты
+- [my-cyber-journey](https://github.com/Vitaliy-sec/my-cyber-journey) — моё портфолио с решениями Bandit и TryHackMe
+
+## Контакты
+- GitHub: [Vitaliy-sec](https://github.com/Vitaliy-sec)
+- Email: yfsb89@mail.ru
+
+---
+
+![](https://komarev.com/ghpvc/?username=Vitaliy-sec) <!-- Счётчик просмотров профиля -->
